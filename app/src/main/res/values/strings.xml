@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CustomeToolbar</string>
+    <string name="new_opt">New</string>
+    <string name="save_opt">Save</string>
+</resources>

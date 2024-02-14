@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="@string/new_opt"
+        android:id="@+id/new_opt"
+        android:icon="@drawable/baseline_create_new_folder_24"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:title="@string/save_opt"
+        android:id="@+id/save_opt"
+        android:icon="@drawable/baseline_arrow_downward_24"/>
+
+
+</menu>
